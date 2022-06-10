@@ -47,7 +47,10 @@ I am by far not the best programmer so the code might be a little spaghetti here
 &ensp;&ensp;**Example:** `waypoint remove home` <-- Removes your local waypoint.
 
 `give <Item Name> [<Amount>]`: Adds the specified Item to your Inventory.\
-&ensp;&ensp;**Example:** `give Stone Brick 17 `
+&ensp;&ensp;**Example:** `give Stone Brick 17`
+
+`spawnatwp <Prefab Name> <Waypoint>`: Spawns a NPC to a previously created waypoint.\
+&ensp;&ensp;**Example:** `spawnatwp CHAR_Cursed_MountainBeast_VBlood arena`
 
 `health <Amount>`: Sets your health to the specified amount.\
 `speed <Amount|Reset>`: Sets your movement speed to the specified amount.\
@@ -57,7 +60,9 @@ I am by far not the best programmer so the code might be a little spaghetti here
 <details>
 <summary>Changelog</summary>
 
-`1.x`
+`1.3.0`
+- Added new command: spawnatwp
+- Added a Waypoint Limit per User
 - Added a reset function to speed
 
 `1.2.0`
@@ -82,7 +87,6 @@ I am by far not the best programmer so the code might be a little spaghetti here
 
 - Chat Permission Roles
 - Kits Option: Limited Uses
-- Waypoint Option: Waypoint Limit per User
 - Teleport Command: Teleport to other Users
 - Bring back the Blood HUD Command
 - Anything fun that'll distract me from my initial goals
