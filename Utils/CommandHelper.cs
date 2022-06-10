@@ -64,7 +64,7 @@ namespace ChatCommands.Utils
             return type;
         }
 
-        public static void Spawn(Context ctx, string name, float2 position)
+        public static void SpawnAtWaypoint(Context ctx, string name, float2 position)
         {
             try
             {

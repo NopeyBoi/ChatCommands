@@ -40,11 +40,12 @@ I am by far not the best programmer so the code might be a little spaghetti here
 `bloodpotion <BloodType> [<Quality>]`: Creates a Potion with specified Blood Type, Quality and Value.\
 &ensp;&ensp;**Example:** `bloodpotion Scholar 100`
 
-`waypoint <Name|Set|Remove> [<Name>] [global]`: Teleports you to previously created waypoints.\
+`waypoint <Name|Set|Remove|List> [<Name>] [global]`: Teleports you to previously created waypoints.\
 &ensp;&ensp;**Example:** `waypoint set home` <-- Creates a local waypoint just for you.\
 &ensp;&ensp;**Example:** `waypoint set arena global` <-- Creates a global waypoint for everyone (Admin-Only).\
 &ensp;&ensp;**Example:** `waypoint home` <-- Teleports you to your local waypoint.\
-&ensp;&ensp;**Example:** `waypoint remove home` <-- Removes your local waypoint.
+&ensp;&ensp;**Example:** `waypoint remove home` <-- Removes your local waypoint.\
+&ensp;&ensp;**Example:** `waypoint list` <-- Shows a list of all to you accessible waypoints.
 
 `give <Item Name> [<Amount>]`: Adds the specified Item to your Inventory.\
 &ensp;&ensp;**Example:** `give Stone Brick 17`

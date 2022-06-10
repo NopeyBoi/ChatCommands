@@ -8,7 +8,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("waypoint, wp", "waypoint <Name|Set|Remove> [<Name>] [global]", "Teleports you to previously created waypoints.")]
+    [Command("waypoint, wp", "waypoint <Name|Set|Remove|List> [<Name>] [global]", "Teleports you to previously created waypoints.")]
     public static class Waypoint
     {
         public static List<WaypointMarker> waypoints;

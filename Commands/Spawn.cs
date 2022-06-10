@@ -28,8 +28,7 @@ namespace ChatCommands.Commands
             if (waypoints.Any(x => x.Name.ToLower() == waypoint.ToLower()))
             {
                 var wp = waypoints.First(x => x.Name.ToLower() == waypoint.ToLower());
-
-                CommandHelper.Spawn(ctx, name, new(wp.X, wp.Y));
+                CommandHelper.SpawnAtWaypoint(ctx, name, new(wp.X, wp.Y));
             }
             else
             {
