@@ -1,8 +1,11 @@
 ﻿using ProjectM;
 using ProjectM.Network;
 using System;
+using System.Collections.Generic;
 using System.Globalization;
+using System.IO;
 using System.Runtime.InteropServices;
+using System.Text.Json;
 using Unity.Entities;
 using Unity.Mathematics;
 using Unity.Transforms;
@@ -59,6 +62,52 @@ namespace ChatCommands.Utils
             if (Enum.IsDefined(typeof(BloodType), CultureInfo.CurrentCulture.TextInfo.ToTitleCase(name)))
                 Enum.TryParse(name, true, out type);
             return type;
+        }
+
+        public static void Spawn(Context ctx, string name, float2 position)
+        {
+            try
+            {
+                var bufferSystem = VWorld.Server.GetExistingSystem<EntityCommandBufferSystem>();
+                var buffer = new EntityCommandBufferSafe(Unity.Collections.Allocator.Temp)
+                {
+                    Unsafe = bufferSystem.CreateCommandBuffer()
+                };
+
+                var prefabCollectionSystem = VWorld.Server.GetExistingSystem<PrefabCollectionSystem>();
+                foreach (var kv in prefabCollectionSystem._PrefabGuidToNameMap)
+                {
+                    if (kv.Value.ToString() == name)
+                    {
+                        ctx.Event.User.SendSystemMessage($"Attempting to spawn: {name}...");
+                        foreach (var pkv in prefabCollectionSystem._PrefabGuidToEntityMap)
+                        {
+                            if (pkv.Key == kv.Key)
+                            {
+                                var prefabEntity = pkv.Value;
+                                ctx.Event.User.SendSystemMessage($"Found: {name} as {pkv.Value} - {pkv.Key}...");
+                                Entity spawnedEntity = buffer.Instantiate(prefabEntity);
+
+                                var translation = VWorld.Server.EntityManager.GetComponentData<Translation>(ctx.Event.SenderUserEntity);
+
+                                var f3pos = new float3(position.x, translation.Value.y, position.y);
+
+                                ctx.Event.User.SendSystemMessage($"Spawning unit: {name} <{f3pos.x},{f3pos.y}, {f3pos.z}> (command from <{translation.Value.x},{translation.Value.y},{translation.Value.z}>)");
+                                buffer.SetComponent(spawnedEntity, new Translation() { Value = f3pos });
+                                ctx.Event.User.SendSystemMessage($"Spawning Complete: {name}");
+
+                                return;
+                            }
+                        }
+                    }
+                }
+                ctx.Event.User.SendSystemMessage("Could not find specified unit: " + name);
+                return;
+            }
+            catch (Exception e)
+            {
+                ctx.Event.User.SendSystemMessage($"ERROR: {e.Message}");
+            }
         }
 
         public static void TeleportTo(Context ctx, float2 position)

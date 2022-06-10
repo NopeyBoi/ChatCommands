@@ -48,7 +48,7 @@ namespace ChatCommands.Commands
 
             if (ctx.Args[0].ToLower() == "list")
             {
-                ctx.Event.User.SendSystemMessage("List all accessible Waypoints:");
+                ctx.Event.User.SendSystemMessage("List of all accessible Waypoints:");
                 foreach (WaypointMarker wp in waypoints)
                 {
                     if (wp.IsGlobal || wp.User == ctx.Event.User.CharacterName.ToString())
