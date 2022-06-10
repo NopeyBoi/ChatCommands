@@ -9,9 +9,7 @@ namespace ChatCommands.Commands
     {
         public static void Initialize(Context ctx)
         {
-            CommandHelper.Spawn(ctx, "CHAR_Cursed_MountainBeast_VBlood", new(-1300, -600));
-
-            if (ctx.Args.Length > 0)
+            if (ctx.Args.Length != 0)
             {
                 var component = ctx.EntityManager.GetComponentData<Movement>(ctx.Event.SenderCharacterEntity);
                 if (float.TryParse(ctx.Args[0], out float speed))
@@ -26,6 +24,14 @@ namespace ChatCommands.Commands
                     ctx.EntityManager.SetComponentData(ctx.Event.SenderCharacterEntity, component);
                     ctx.Event.User.SendSystemMessage($"Set speed to <color=#ffff00ff>4.4 (default)</color>");
                 }
+                else
+                {
+                    CommandOutput.InvalidArguments(ctx);
+                }
+            }
+            else
+            {
+                CommandOutput.MissingArguments(ctx);
             }
         }
     }
