@@ -1,0 +1,618 @@
+PrefabGUID - Item Name - Prefab Name
+-1632868351 - Anvil (Construction) - Item_Tech_Workstation_Anvil
+778452995 - Heart of the Beast - Item_Ingredient_Heart_Boss_Beast
+1380368392 - Shard of the Frozen Crypt - Item_MagicSource_General_T08_FrozenShard
+1925394440 - Nightstalker Leggings - Item_Legs_T03_Cloth
+1292986377 - Bloodmoon Leggings - Item_Legs_T08_Shadowmoon
+780044299 - Paper - Item_Ingredient_Paper
+-710426611 - Plated Tube - Item_Ingredient_Kit_Construction_T03
+2057963541 - Bone Sword - Item_Hair06_Male
+-1199259626 - Scales - Item_Ingredient_Chitin
+-94650344 - Gravel Paths - Item_Ingredient_Book_Structure_Path_Dirt
+1221976097 - Merciless Iron Crossbow - Item_Weapon_Crossbow_T06_Iron_Reinforced
+-2017255390 - Default Stone - Item_Ingredient_Book_Structure_Wallpaper_Stone_T01
+-687294429 - Miner's Mace - Item_Weapon_Mace_T02_Miners
+1217706022 - Merciless Nightstalker Leggings - Item_Tech_Armor_Copper_Legs_T04
+-656822228 - Cotton - Item_Ingredient_Gem_Base
+248289327 - Enchanted Brew - Item_Consumable_Canteen_SpellBrew_T01
+1778128946 - Merciless Iron Reaper - Item_Weapon_Reaper_T06_Iron_Reinforced
+1117358137 - Assortment of fine Paintings - Item_Tech_Decoration_Paintings_01
+866934844 - Merciless Iron Slashers - Item_Weapon_Slashers_T06_Iron_Reinforced
+336922685 - The Frozen Eye - Item_MagicSource_General_T04_FrozenEye
+-1950957498 - The Ember Chain - Item_Tech_MagicSource_T04_EmberChain
+-1642545082 - Fat Goby - Item_Ingredient_Fish_FatGoby
+1122416713 - Sanguine Faceguard - Item_Head_T08_Shadowmoon
+-1269116849 - Silver Resistance Brew - Item_Ingredient_Book_Consumable_SilverBrew_T01
+541321301 - WranglerÔÇÖs Potion - Item_Consumable_GlassBottle_WranglersTea_T01
+-1627025321 - Steel Ingot - Item_Ingredient_SteelBar
+-1766676387 - Misty Necklace - Item_Tech_MagicSource_T06_TopazNecklace
+1501868129 - Sulphur Ore - Item_Ingredient_SulfurOre
+1856338018 - Sanguine Crossbow - Item_Ingredient_Book_Weapon_Crossbow_T08
+1241831522 - Plated Boneguard Boots - Item_Boots_T02_BoneReinforced
+-2091288477 - Manna Shawl - Item_Cloak_T02_HolyPaladin
+-1932461974 - Coal - Item_Ingredient_Coal
+-2130812821 - Spectral Dust - Item_Ingredient_Spectraldust
+-1460281233 - MaidÔÇÖs Scarf - Item_Headgear_MaidScarf
+-1242947472 - WranglerÔÇÖs Potion - Item_Ingredient_Book_Consumable_Wranglers_T02
+-1409142667 - Plant Fibre - Item_Ingredient_Plant_PlantFiber
+-1787563914 - Silver Ingot - Item_Ingredient_SilverBar
+828432508 - Blood Potion - Item_Consumable_PrisonPotion
+2029158532 - Rat - Item_Dummy_Rat
+-1067360120 - Immortal King's Cloak - Item_Cloak_T02_Dracula
+-1094633334 - Loom (Construction) - Item_Tech_Workstation_Loom
+-651878258 - Shadowweave - Item_Ingredient_Shadowweave
+2019195024 - Soul Shard of Solarus - Item_Building_Relic_Paladin
+-363718499 - Mourning Lily - Item_Ingredient_Plant_MourningLily
+-1176768353 - Wooden Coffin - Item_Tech_SpecialStation_WoodenCoffin
+-2125696865 - Skull Mask - Item_Head_T00_StartingRags
+1677983904 - Purple Feathered Cape - Item_Cloak_T02_HarpyMatriarch
+-383004511 - Merciless Nightstalker Boots - Item_Ingredient_Book_Armor_Boots_T04
+423790753 - Minor Garlic Resistance Brew - Item_Consumable_Canteen_MinorGarlicResistanceTea_T01
+1252366498 - Skeleton Priest - Item_Dummy_Necromancer
+51046573 - Regular Ruby - Item_Ingredient_Gem_Ruby_T02
+1957540013 - Shadow Crossbow - Item_Weapon_Crossbow_T09_ShadowMatter
+-1757146959 - Lumberjack in a Coffin - Item_Ingredient_ServantCoffin_Lumberjack
+1316587700 - Bandit Leggings - Item_Legs_T02_BanditGear
+1216450741 - Rag Hand Wraps - Item_Gloves_T00_StartingRags
+1130180793 - Simple Furniture - Item_Ingredient_Book_Structure_SimpleFurniture
+-814739263 - Dark Silver Crossbow - Item_Weapon_Crossbow_T07_DarkSilver
+1655869633 - Blood Key - Item_MagicSource_BloodKey_T01
+-411821882 - Merciless Iron Spear - Item_Tech_Weapon_Iron_Spear_T06
+1522792650 - Copper Reaper - Item_Weapon_Reaper_T03_Copper
+-916555565 - Merciless Hollowfang Leggings - Item_Legs_T06_Iron
+-1322000172 - Water-filled Canteen - Item_Consumable_WaterCanteen_T01
+679755989 - Noble Fences & Fountains - Item_Ingredient_Book_Structure_FenceFountains_T02
+-665693995 - Bone Sword - Item_Hair07_Male
+1535264985 - Sanguine Steel - Item_Ingredient_SanguineSteelBar
+-305440546 - Tatters of the Undead - Item_Cloak_T01_UndeadMage
+-580716317 - Blaze Steel - Item_Ingredient_Kit_Blacksmith_T03
+1686577386 - Silver Ore - Item_Ingredient_SilverOre
+-473351958 - Sunflower Seed - Item_Building_Plants_Sunflower_Seed
+238268650 - Immortal King's Greathelm - Item_Headgear_DraculaHelmet
+526792945 - Bone - Item_RepairKit_Bone
+1068009714 - CarpenterÔÇÖs Bench (Construction) - Item_Tech_Workstation_CarpentersBench
+343324920 - Merciless Copper Mace - Item_Weapon_Mace_T04_Copper_Reinforced
+-556769032 - Bloodmoon Boots - Item_Boots_T08_Shadowmoon
+213967097 - Giant Rat - Item_Dummy_GiantRat
+1721366777 - Merciless Nightstalker Vest - Item_Chest_T04_Copper
+-651554566 - Sapphire Pendant - Item_MagicSource_General_T06_SapphirePendant
+-269326085 - Brew of Ferocity - Item_Consumable_Canteen_PhysicalBrew_T01
+-1233700610 - Forge Flooring - Item_Ingredient_Book_Floor_Forge
+417648894 - Militia Helmet - Item_Headgear_MilitiaHelmet
+1247086852 - Soul Shard of the Behemoth - Item_Building_Relic_Behemoth
+-1635792632 - Paper Press - Item_Ingredient_Book_Structure_Paperpress
+1821405450 - Bone - Item_Ingredient_Bone
+-1588051702 - Gravedigger Ring - Item_MagicSource_General_T03_GravediggerRing
+-1562867444 - Coarse Thread - Item_Ingredient_Thread_Coarse
+1048518929 - Merciless Copper Reaper - Item_Weapon_Reaper_T04_Copper_Reinforced
+1105981714 - Sunflower - Item_Ingredient_Plant_Sunflower
+-406808302 - Hollowfang Gloves - Item_Gloves_T05_Cotton
+1513609491 - Nightstalker Headgear - Item_Head_T05_Cotton
+1400688919 - Death Boots - Item_Boots_T09_DarkMatter
+-1440581352 - Assortment of house windows - Item_Tech_Decoration_Windows_House_01
+-1696677607 - 'Distinguished' Carpet Collection - Item_Ingredient_Book_Structure_Carpets_T03_Distinguished
+1344878878 - Charm Human (Ability) - Item_Ability_Tech_Charm_Human
+-2073081569 - Nightlurker Head - Item_Headgear_NightlurkerTrophy
+1905539368 - Assortment of Windows - Item_Ingredient_Book_Structure_Windows_T01
+-786493143 - Bone Sword - Item_Armor_Gloves_Base
+-130369231 - Slim Blood Case - Item_Ingredient_Book_Structure_BloodCase_T01
+2079422771 - Crypt Floor - Item_Ingredient_Book_Floor_Crypt
+-1771720396 - Merciless Nightstalker Leggings - Item_Legs_T04_Copper
+-651642571 - Assortment of Storage Shelves - Item_Ingredient_Book_Structure_Storage_T01
+-1779269313 - Blood Snapper - Item_Ingredient_Fish_BloodSnapper
+-886916793 - Mist Signet - Item_MagicSource_General_T04_MistSignet
+1388962120 - Stone dust - Item_Ingredient_Stonedust
+74811721 - Flawless Ruby - Item_Ingredient_Gem_Ruby_T03
+-877985459 - Assortment of Vampire Statues - Item_Ingredient_Book_Structure_VampireStatues
+-1907207856 - Blast Powder - Item_Ingredient_BlastPowder
+-1913800363 - The Frozen Eye - Item_Ingredient_Book_MagicSource_T04_FrozenEye
+615301463 - Sanguine Slashers - Item_Ingredient_Book_Weapon_Slashers_T08
+-168044197 - Chaos Stitched Drape - Item_Cloak_T01_ChaosArcher
+2004306269 - Common Flower - Item_Ingredient_CommonFlower
+1474515294 - Topaz Amulet - Item_Ingredient_Book_MagicSource_T06_TopazAmulet
+985844065 - Bone Sword - Item_Legs_T03_HunterRaiment
+-1455124124 - Merciless Copper Sword - Item_Ingredient_Book_Weapon_Sword_T04
+-570287766 - Twilight Snapper - Item_Ingredient_Fish_TwilightSnapper
+552409457 - Crude Sapphire - Item_Ingredient_Gem_Sapphire_T01
+-1023114892 - Ashfolk Wildfire Cloak - Item_Cloak_T02_WildlingRed
+-950359691 - The General's Soul Reaper - Item_Tech_Weapon_Iron_Reaper_General_T06
+-840672901 - Simple Bolts - Item_Ingredient_Kit_Construction_T01
+-77477508 - Demon Fragment - Item_Ingredient_DemonFragment
+2015299972 - Spiderling - Item_Dummy_Spiderling
+6711686 - Dark Silver Reaper - Item_Weapon_Reaper_T07_DarkSilver
+-1046748791 - Emerald Necklace - Item_MagicSource_General_T06_EmeraldNecklace
+860383634 - Jewel of the Wicked Prophet - Item_Ingredient_Book_MagicSource_T08_ProphetJewel
+-38051433 - Minor Sun Resistance Brew - Item_Consumable_Canteen_MinorSunResistanceBrew_T01
+-152327780 - Bone Reaper - Item_Weapon_Reaper_T01_Bone
+-1017402979 - Plank - Item_Ingredient_Plank
+-1531666018 - Stone - Item_Ingredient_Stone
+-1396190808 - Sanguine Spear - Item_Ingredient_Book_Weapon_Spear_T08
+-1495639636 - Highland Lotus Seeds - Item_Building_Plants_Lotus_Seed
+269771183 - Bone Sword - Item_Armor_Legs_Base
+585873842 - Assortment of furniture - Item_Tech_Decoration_Furniture_01
+-903587404 - Iron Sword - Item_Weapon_Sword_T05_Iron
+1089548726 - Metal Bolts - Item_Ingredient_Kit_Construction_T02
+-1929817673 - 'Red' Chairs - Item_Ingredient_Book_Structure_Chairs_Red
+-175650376 - Jewel of the Wicked Prophet - Item_MagicSource_General_T08_ProphetJewel
+991396285 - Corrupted Artefact - Item_MagicSource_General_T07_Artifact
+-1846175290 - Bone Sword - Item_Hair05_Male
+-1618112057 - Copper Helm - Item_Head_T04_Copper
+-1965958712 - Exquisite Heart - Item_Consumable_Heart_T04_Exquisite
+492964298 - Enchanted Brew - Item_Ingredient_Book_Consumable_SpellPower_T01
+-977419819 - Merciless Iron Reaper - Item_Ingredient_Book_Weapon_Reaper_T06
+317317590 - Clay - Item_Ingredient_Clay
+1650371033 - Sawmill (Construction) - Item_Tech_Workstation_Sawmill
+-911541799 - Extract Blood Essence - FakeItem_Prisoner_ExtractEssence
+639992282 - Holy Resistance Flask - Item_Consumable_Flask_HolyResistance_T03
+-1596352033 - Merciless Iron Axes - Item_Ingredient_Book_Weapon_Axe_T06
+2114304481 - Fire Resistance Brew - Item_Ingredient_Book_Consumable_FireResistance_T02
+-784090648 - Fireplaces - Item_Tech_Decoration_Fireplaces_01
+-618120726 - Woodwork (Construction) - Item_Tech_Woodwork
+883374570 - Roll (Ability) - Item_Ability_Tech_Roll
+-1783670291 - Merciless Iron Spear - Item_Ingredient_Book_Weapon_Spear_T06
+-1496356369 - Cobalt Carpet - Item_Tech_Decoration_Carpets_01
+287586809 - Crude Ruby - Item_Ingredient_Gem_Ruby_T01
+-242277891 - Fish Oil - Item_Ingredient_Fishoil
+-2020212226 - Perfect Sapphire - Item_Ingredient_Gem_Sapphire_T04
+1335546377 - Vampire Hunter's Drape - Item_Cloak_T01_VampireHunter
+-1183157751 - Nightstalker Gloves - Item_Gloves_T03_Cloth
+1561721357 - Merciless Hollowfang Vest - Item_Ingredient_Book_Armor_Chest_T06
+-1563178470 - Witch Potion - Item_Ingredient_Book_Consumable_SpellPower_T03
+-222860772 - Soul Shard of the Winged Horror - Item_Building_Relic_Manticore
+271594022 - Greater Blood Essence - Item_BloodEssence_T02_Greater
+-164367832 - Ghost Shroom - Item_Ingredient_Plant_GhostShroom
+884195882 - Bone Sword - Item_Head_T03_HunterRaiment
+-1455388114 - Dark Silver Sword - Item_Weapon_Sword_T07_DarkSilver
+-1277074895 - Hunter's Crossbow - Item_Weapon_Crossbow_T03_Hunter
+193249843 - Fresh Fish - Item_Ingredient_MapZone_Fish
+1355823667 - Boneguard Leggings - Item_Legs_T01_Bone
+-1662211524 - Sapphire Pendant - Item_Tech_MagicSource_T05_SapphirePendant
+1055898174 - Death Chestguard - Item_Chest_T09_DarkMatter
+1302850112 - Fishing Pole - Item_Weapon_FishingPole_T01
+-2037272000 - Copper Sword - Item_Weapon_Sword_T03_Copper
+254517827 - Merciless Iron Mace - Item_Tech_Weapon_Iron_Mace_T06
+518802008 - Copper Axes - Item_Weapon_Axe_T03_Copper
+-946597284 - Fireplaces - Item_Ingredient_Book_Structure_Fireplaces
+2115367516 - Gemstone - Item_Ingredient_Gemstone
+82446940 - Merciless Hollowfang Gloves - Item_Gloves_T06_Iron
+-1071187362 - PilgrimÔÇÖs Hat - Item_Headgear_PilgrimsHat
+-1998017941 - Reinforced Bone Mace - Item_Weapon_Mace_T02_Bone_Reinforced
+1985892973 - Snow Flower Seed - Item_Building_Plants_SnowFlower_Seed
+1707139699 - Deer Head - Item_Headgear_DeerTrophy
+-1958888844 - Bone Axes - Item_Weapon_Axe_T01_Bone
+-1397591435 - Reinforced Plank - Item_Ingredient_ReinforcedPlank
+702067317 - Silk - Item_Ingredient_Silk
+1705028227 - Flawless Amethyst - Item_Ingredient_Gem_Amethyst_T03
+714007172 - Bear Head - Item_Headgear_BearTrophy
+-126076280 - Sanguine Mace - Item_Weapon_Mace_T08_Sanguine
+759775881 - Misty Necklace - Item_Ingredient_Book_MagicSource_T06_MistStoneNecklace
+-1814109557 - Immortal King's Mantle - Item_Cloak_T03_Dracula
+2085163661 - Schematic - Item_Ingredient_Schematic
+-1907572080 - Leather - Item_Ingredient_Leather
+-793369960 - Steel Wiring - Item_Ingredient_Kit_Construction_T04
+176401052 - The Fish - Item_Ingredient_Fish_TheFish
+1046366876 - Carpet Roll - Item_Ingredient_CarpetRoll
+764480170 - Undead General Helmet - Item_Headgear_RustedMilitiaHelmet
+-1236809045 - Fine Dining Table Colleciton - Item_Ingredient_Book_Structure_Tables_T02
+1332980397 - Iron Ore - Item_Ingredient_IronOre
+1972253357 - Mosquito - Item_Ingredient_Mosquito
+-1963826510 - Flawless Miststone - Item_Ingredient_Gem_Miststone_T03
+67930804 - Golden River Bass - Item_Ingredient_Fish_GoldenRiverBass
+1322545846 - Sanguine Slashers - Item_Weapon_Slashers_T08_Sanguine
+-958936382 - Plated Boneguard Chestguard - Item_Chest_T02_BoneReinforced
+-2111388989 - Boneguard Mask - Item_Head_T01_Bone
+-1792384312 - Tomb (Construction) - Item_Tech_Workstation_Tomb
+-1716143396 - Assortment of Coloured Windows - Item_Ingredient_Book_Structure_Windows_T02
+-331345186 - Copper Mace - Item_Weapon_Mace_T03_Copper
+-224716062 - Emerald Necklace - Item_Ingredient_Book_MagicSource_T06_EmeraldNecklace
+867351268 - Crude Topaz - Item_Ingredient_Gem_Topaz_T01
+-1027710236 - Gold Ingot - Item_Ingredient_GoldBar
+802050789 - Regular Miststone - Item_Ingredient_Gem_Miststone_T02
+-1237019921 - Copper Ingot - Item_Ingredient_CopperIngot
+-465491217 - Shadow Reaper - Item_Weapon_Reaper_T09_ShadowMatter
+-2043983118 - Pristine Leather - Item_Ingredient_PristineLeather
+429052660 - Blood Rose Potion - Item_Consumable_GlassBottle_BloodRosePotion_T02
+1413130999 - Bone - Item_Ingredient_Kit_Base
+-1435008259 - Assortment of 'Alabaster' Vases - Item_Ingredient_Book_Structure_Vases03
+-1819786494 - Traveller's Wrap - Item_Cloak_Main_T01_Travelers
+-1189846269 - Defiled Heart - Item_Consumable_Heart_T01_Defiled
+-106224889 - 'Hearth' Wall Panels - Item_Ingredient_Book_Structure_Wallpaper_WoodPanel_T01
+1654588169 - Merciless Iron Axes - Item_Tech_Weapon_Iron_Axe_T06
+1702347530 - Nightstone of the Beast - Item_Ingredient_Book_MagicSource_T08_Nightstone
+1291840269 - Merciless Copper Spear - Item_Tech_Weapon_Copper_Spear_T04
+-2013887729 - Potion of Rage - Item_Ingredient_Book_Consumable_PhysicalPower_T03
+198951695 - Merciless Iron Axes - Item_Weapon_Axe_T06_Iron_Reinforced
+-1851604207 - Spiderweb - Item_Ingredient_Web
+-1785271534 - Wolf Head - Item_Headgear_WolfTrophy02
+-1228659944 - Big Stash - Item_Ingredient_Book_Structure_BigStash
+1915695899 - Trippy Spores - Item_Building_Plants_TrippyShroom_Seed
+1594270493 - Flying Lights - Item_Ingredient_Book_Structure_FlyingCandles_T03
+489001758 - Wide Blood Case - Item_Ingredient_Book_Structure_BloodCase_T02
+2042311455 - Ghoul - Item_Dummy_Ghoul
+-809059551 - Duskwatcher's Ring - Item_MagicSource_General_T04_Duskwatcher
+225530658 - Crude Amethyst - Item_Ingredient_Gem_Amethyst_T01
+-962845918 - Bone Sword - Item_Tool_Fang_T01_Bone
+370989859 - Assortment of enchanted torches - Item_Tech_Decoration_EnchantedTorches_01
+2147390246 - Hermit's Shawl - Item_Cloak_T02_MilitiaMonk
+-898917584 - Imperial Thread - Item_Ingredient_Thread_Imperial
+-1011823823 - Blood Press - Item_Tech_Workstation_BloodPress
+-1221174479 - Artisans Corner - Item_Ingredient_Book_Structure_ArtisanTable
+502133568 - Bloodmoon Chestguard - Item_Ingredient_Book_Armor_Chest_T08
+-1519267007 - Sanguine Axes - Item_Ingredient_Book_Weapon_Axe_T08
+801024835 - Twilight Leggings - Item_Legs_T07_Silk_Twilight
+-1471814844 - Merciless Hollowfang Vest - Item_Tech_Armor_Copper_Chest_T06
+131015492 - Regular Sapphire - Item_Ingredient_Gem_Sapphire_T02
+-257494203 - Crystal - Item_Ingredient_Crystal
+-1805325497 - Copper Ore - Item_Ingredient_CopperOre
+-810738866 - Empty Canteen - Item_Consumable_EmptyBootle_Canteen
+66323285 - Bone Familiar - Item_MagicSource_T01_Bone
+-674860200 - Merciless Hollowfang Boots - Item_Boots_T06_Iron
+1354115931 - Perfect Emerald - Item_Ingredient_Gem_Emerald_T04
+-1988816037 - Ashfolk Crown - Item_Headgear_AshfolkCrown
+-426316963 - Assortment of 'Augur' Vases - Item_Tech_Decoration_Vases_Gothic
+-626353315 - Acorn - Item_Building_Plants_Oak_Acorn
+1762839393 - Ghost Shroom Spores - Item_Building_Plants_GhostShroom_Seed
+-1837769884 - Hollowfang Boots - Item_Boots_T05_Cotton
+584164197 - Royal Mantle of Ashfolk Kings - Item_Cloak_T03_Royal
+250950510 - Hollowfang Headgear - Item_Head_T07_Silk
+-1979905169 - Sawdust - Item_Ingredient_Sawdust
+-23387281 - Bone Crown - Item_Ingredient_Crown_Bone
+965124976 - Blueberry - Item_Ingredient_Blueberry
+-276593802 - Merciless Iron Mace - Item_Weapon_Mace_T06_Iron_Reinforced
+610958202 - Topaz Amulet - Item_MagicSource_General_T06_TopazAmulet
+-924142723 - Servant Coffin (Construction) - Item_Tech_Workstation_ServantCoffin
+-850142339 - Sanguine Spear - Item_Weapon_Spear_T08_Sanguine
+-1413694594 - Pristine Heart - Item_Consumable_Heart_T05_Pristine
+-930514044 - Dawnthorn Chestguard - Item_Chest_T07_Silk
+-604941435 - Hollowfang Chestguard - Item_Chest_T05_Cotton
+742900616 - Assortment of Fine Braziers - Item_Ingredient_Book_Structure_Braziers02
+1370755976 - Copper Spear - Item_Weapon_Spear_T03_Copper
+587164554 - Amethyst Pendant - Item_Ingredient_Book_MagicSource_T06_AmethystPendant
+-706178162 - Bloodmoon Boots - Item_Ingredient_Book_Armor_Boots_T08
+675013523 - Fire Blossom Seed - Item_Building_Plants_FireBlossom_Seed
+-817048676 - Workbench (Construction) - Item_Tech_Workstation_Workbench
+1389040540 - Sanguine Crossbow - Item_Weapon_Crossbow_T08_Sanguine
+409678749 - Undead General Helmet - Item_Headgear_GeneralHelmet
+-24337506 - Glacial Stitched Drape - Item_Cloak_T01_FrostArrow
+-650855520 - Scourge Pendant - Item_MagicSource_General_T05_Relic
+-1215982687 - Shadow Sword - Item_Weapon_Sword_T09_ShadowMatter
+-1621212250 - Altar (Construction) - Item_Tech_Workstation_Altar
+-506166355 - Castle Framework - Item_Tech_Framework_Castle
+-1885959251 - Vermin Salve - Item_Consumable_Salve_Vermin
+160471982 - Shadow Mace - Item_Weapon_Mace_T09_ShadowMatter
+-1233716303 - Glass - Item_Ingredient_Glass
+-869864524 - Rat - Item_Consumable_Eat_Rat
+-437611596 - Empty Glass Bottle - Item_Consumable_EmptyBootle_GlassBottle
+-1788912715 - Merciless Hollowfang Boots - Item_Ingredient_Book_Armor_Boots_T06
+-854137929 - Lumbermill Framework - Item_Tech_Framework_Lumbermill
+225917880 - Crystal Flask containing Water - Item_Consumable_WaterCrystalFlask_T03
+-2053917766 - Sanguine Reaper - Item_Weapon_Reaper_T08_Sanguine
+-1504365634 - Merciless Iron Crossbow - Item_Tech_Weapon_Iron_Crossbow_T06
+-2094335041 - Blood Maggot - Item_Ingredient_Bloodmaggot
+-1909544000 - Fortification - Item_Tech_Framework_OuterWalls
+-2036196416 - Plated Boneguard Leggings - Item_Legs_T02_BoneReinforced
+970650569 - Fire Resistance Brew - Item_Consumable_Canteen_MinorFireResistanceBrew_T01
+-946177070 - Library Flooring - Item_Ingredient_Book_Floor_Library
+1350548439 - Sanguine Reaper - Item_Ingredient_Book_Weapon_Reaper_T08
+1872733144 - Wool Thread - Item_Ingredient_Thread_Wool
+852620251 - Vampire Signet - Item_Ingredient_VampireSignet
+-1129708579 - Crude Miststone - Item_Ingredient_Gem_Miststone_T01
+551949280 - Golden Castle Key - Item_Ingredient_CastleKey_T04
+38319072 - Assortment of fine Paintings - Item_Ingredient_Book_Structure_Paintings
+1887724512 - The General's Soul Reaper - Item_Weapon_Reaper_T06_Iron_UndeadGeneral
+1780339680 - PaladinÔÇÖs Helmet - Item_Headgear_PaladinsHelmet
+-312902686 - ArmourerÔÇÖs Table (Construction) - Item_Tech_Workstation_ArmorersBench
+-1593377811 - Lumber - Item_Ingredient_Lumber
+-439501841 - Shadow and Flame (Construction) - Item_Tech_Workstation_ShadowAndFlame
+1310923765 - Mist Signet - Item_Ingredient_Book_MagicSource_T04_MistSignet
+711062517 - Boneguard Boots - Item_Boots_T01_Bone
+272647158 - Silver Resistance Brew - Item_Consumable_Canteen_SilverResistance_T01
+1557814269 - Bone Ring - Item_MagicSource_General_T01_BoneRing
+-1289010178 - Cotton Seed - Item_Building_Plants_Cotton_Seed
+444400639 - Cotton Yarn - Item_Ingredient_CottonYarn
+1834646528 - BanditÔÇÖs Hood - Item_Head_T02_BanditGear
+1691702273 - Assortment of Cabinets - Item_Ingredient_Book_Structure_Storage_T03
+-1599548414 - Alchemy Table (Construction) - Item_Tech_Workstation_AlchemyTable
+828271620 - Exceptional Tailoring Component - Item_Ingredient_Kit_Tailoring_T04
+-1739590652 - Merciless Nightstalker Gloves - Item_Gloves_T04_Copper
+455638025 - Fire Blossom - Item_Ingredient_Plant_FireBlossom
+2107622409 - Silver Resistance Potion - Item_Consumable_GlassBottle_SilverResistance_T03
+1005440012 - Scourgestone - Item_Ingredient_Scourgestone
+1099930636 - Kiss of the Vampire - Item_MagicSource_Charm_T01
+-794043372 - Twilight Gloves - Item_Gloves_T07_Silk_Twilight
+-957963240 - Nightstalker Vest - Item_Chest_T03_Cloth
+-39893988 - Garden Decore - Item_Ingredient_Book_Structure_GardenDecore
+1634690081 - Bloodmoon Gloves - Item_Gloves_T08_Shadowmoon
+1556544548 - Brew of Ferocity - Item_Ingredient_Book_Consumable_PhysicalPower_T01
+-192381912 - Merciless Hunter's Crossbow - Item_Ingredient_Book_Weapon_Crossbow_T04
+-273779669 - Artisans Corner - Item_Tech_Workstation_ArtisansCorner
+-204401621 - Death Gloves - Item_Gloves_T09_DarkMatter
+-111979476 - Bite (Ability) - Item_Ability_Tech_Bite
+560446510 - Dawnthorn Boots - Item_Boots_T07_Silk
+-137886670 - TailorÔÇÖs Flooring - Item_Ingredient_Book_Floor_Tailor
+-1354920908 - Nightstalker Boots - Item_Boots_T03_Cloth
+285318201 - Assortment of Royal Curtains - Item_Ingredient_Book_Structure_Curtains_T03_Royal
+2063193147 - Assortment of 'Pelagic' Vases - Item_Ingredient_Book_Structure_Vases02
+-314614708 - Iron Slashers - Item_Weapon_Slashers_T05_Iron
+-1721887666 - MaidÔÇÖs Cap - Item_Headgear_MaidCap
+898159697 - Bone Crossbow - Item_Weapon_Crossbow_T02_Bone_Reinforced
+-2086890414 - Prison Walls - Item_Ingredient_Book_Structure_Wallpaper_Prison_T02
+-1838793646 - Titan Core - Item_Ingredient_Kit_Blacksmith_T04
+-1386314668 - Mourning Lily Seed - Item_Building_Plants_MourningLily_Seed
+-11246506 - Silkworm - Item_Ingredient_Silkworm
+-96701352 - 'Dux' Carpet Collection - Item_Ingredient_Book_Structure_Carpets_T02_Dux
+1566989408 - Primal Blood Essence - Item_BloodEssence_T03_Primal
+329301090 - Boneguard Chestguard - Item_Chest_T01_Bone
+1840272484 - Merciless Nightstalker Vest - Item_Tech_Armor_Copper_Chest_T04
+-1555051415 - Dawnthorn Leggings - Item_Legs_T07_Silk
+536622186 - Twilight Chestguard - Item_Chest_T07_Silk_Twilight
+1718353003 - Prison Flooring - Item_Ingredient_Book_Floor_Prison
+-836889492 - Skeleton - Item_Dummy_Skeleton
+-353076115 - FootmanÔÇÖs Helmet - Item_Headgear_FootmansHelmet
+-230947730 - Metalwork Station (Construction) - Item_Tech_Workstation_MetalworkStation
+177845365 - Swamp Dweller - Item_Ingredient_Fish_SwampDweller
+150621304 - Bloodstained Cloth - Item_Cloak_T01_ZealousCultist
+-223452038 - Witchdust - Item_Ingredient_Witchdust
+-811840389 - Feed Prisoner - FakeItem_FeedPrisoner_FatGoby
+-1749304196 - Golden Jewellery - Item_Ingredient_GoldenJewelry
+-762000259 - Dark Silver Ingot - Item_Ingredient_DarkSilverBar
+1375804543 - Straw Hat - Item_Headgear_Strawhat
+1427084419 - Merciless Iron Sword - Item_Ingredient_Book_Weapon_Sword_T06
+800879747 - Blood Rose Brew - Item_Consumable_Canteen_BloodRoseBrew_T01
+-774462329 - Sanguine Sword - Item_Weapon_Sword_T08_Sanguine
+-796306296 - Reinforced Bone Sword - Item_Weapon_Sword_T02_Bone_Reinforced
+813370507 - HellÔÇÖs Clarion - Item_Ingredient_Plant_HellsClarion
+1658596502 - Pristine Hide - Item_Ingredient_PristineHide
+-2029933415 - Boneguard Gloves - Item_Gloves_T01_Bone
+125611165 - Death Leggings - Item_Legs_T09_DarkMatter
+-823538517 - Human Heart - Item_Ingredient_Heart_Human_NOTUSED
+-1038242642 - Workshop Walls - Item_Ingredient_Book_Structure_Wallpaper_Workshop_T01
+-598100816 - Thistle - Item_Ingredient_Plant_Thistle
+-334179145 - Assortment of enchanted braziers - Item_Tech_Decoration_EnchantedBraziers_01
+-1607893829 - Ashfolk Helmet - Item_Headgear_AshfolkHelmet
+1334469825 - Document - Item_Ingredient_Document
+725607617 - Raged Pants - Item_Legs_T00_StartingRags
+-2137097021 - Merciless Nightstalker Boots - Item_Tech_Armor_Copper_Boots_T04
+-2070979388 - Bandit Vest - Item_Chest_T02_BanditGear
+1957840070 - Merciless Copper Sword - Item_Tech_Weapon_Copper_Sword_T04
+424158416 - Fish Bone - Item_Ingredient_FishBone
+-491969324 - Merciless Copper Axes - Item_Weapon_Axe_T04_Copper_Reinforced
+1364460757 - Rusted Helmet - Item_Headgear_RustedHelmet
+-1748835106 - Ghost Crystal - Item_Ingredient_GhostCrystal
+-1797796642 - Razer Hood - Item_Headgear_RazerHood
+-2128818978 - Crown of the Archmage - Item_Headgear_ArcMageCrown
+-2081286944 - Iron Reaper - Item_Weapon_Reaper_T05_Iron
+-588909332 - Bone Slashers - Item_Weapon_Slashers_T01_Bone
+506082542 - Shadow Slashers - Item_Weapon_Slashers_T09_ShadowMatter
+1410262258 - Razer Serpent Cloak - Item_Cloak_T02_Razer
+301051123 - Flaweless Gem Veins - Item_Ingredient_MapZone_GemVein_T03
+1906638073 - Workshop Flooring - Item_Ingredient_Book_Floor_Workshop
+756555009 - Minor Sun Resistance Brew - Item_Ingredient_Book_Consumable_SunResistance_T01
+1779299585 - Minor Explosive Box - Item_Building_Explosives_T01
+1863126275 - Tail of the Archfiend - Item_Cloak_T03_UnholyShroud
+-1690985210 - Merciless Copper Spear - Item_Ingredient_Book_Weapon_Spear_T04
+-1983566585 - Perfect Topaz - Item_Ingredient_Gem_Topaz_T04
+1012837641 - Misty Necklace - Item_MagicSource_General_T06_MistStoneNecklace
+-462996207 - Merciless Hollowfang Leggings - Item_Tech_Armor_Copper_Legs_T06
+2065714452 - Scroll - Item_Ingredient_Scroll
+-2139183850 - Garlic Resistance Potion - Item_Consumable_GlassBottle_GarlicResistance_T02
+-1578089187 - Twilight Cowl - Item_Head_T03_Cloth
+-2085919458 - Bone Sword - Item_Weapon_Sword_T01_Bone
+2055058719 - Dawnthorn Gloves - Item_Gloves_T07_Silk
+-1382451936 - Water-filled Bottle - Item_Consumable_WaterGlassBottle_T02
+-1417071311 - Merciless Iron Reaper - Item_Tech_Weapon_Iron_Reaper_T06
+-351173327 - Bone Sword - Item_Hair04_Male
+-1962855117 - Regular Amethyst - Item_Ingredient_Gem_Amethyst_T02
+1075465533 - Sanguine Sword - Item_Ingredient_Book_Weapon_Sword_T08
+362941759 - Cotton - Item_Ingredient_Plant_Cotton
+-1241699004 - Misty Necklace - Item_Tech_MagicSource_T08_X
+1065194820 - Merciless Iron Spear - Item_Weapon_Spear_T06_Iron_Reinforced
+-2090803898 - Metalwork Station - Item_Ingredient_Book_Structure_MetalworkStation
+403967307 - Scarecrow Mask - Item_Headgear_Scarecrow
+633666898 - Dark Silver Slashers - Item_Weapon_Slashers_T07_DarkSilver
+736318803 - Sage Fish - Item_Ingredient_Fish_SageFish
+925085013 - Plaguebringer's Cape - Item_Cloak_PlagueBringer
+1939500376 - Sapphire Pendant - Item_Ingredient_Book_MagicSource_T06_SapphirePendant
+-184713893 - Dark Silver Mace - Item_Weapon_Mace_T07_DarkSilver
+1619422558 - Bone Sword - Item_Tool_Fang_Base
+-1583485601 - Quartz - Item_Ingredient_Quartz
+50824544 - The Ember Chain - Item_MagicSource_General_T04_EmberChain
+947998050 - Tainted Heart - Item_Consumable_Heart_T02_Tainted
+862477668 - Blood Essence - Item_BloodEssence_T01
+1541522788 - Lumberjack's Axes - Item_Weapon_Axe_T02_WoodCutter
+2100090213 - Shadow Axes - Item_Weapon_Axe_T09_ShadowMatter
+1746537832 - Plated Boneguard Gloves - Item_Gloves_T02_BoneReinforced
+836066667 - Iron Crossbow - Item_Weapon_Crossbow_T05_Iron
+607559019 - NecromancerÔÇÖs Mitre - Item_Headgear_NecromancerMitre
+978074988 - Alchemy Lab Flooring - Item_Ingredient_Book_Floor_AlchemyLab
+879103343 - Assortment of enchanted torches - Item_Ingredient_Book_Structure_EnchantedTorches
+-1636801169 - Merciless Hunter's Crossbow - Item_Weapon_Crossbow_T04_Hunter_Reinforced
+961990006 - Mosquito - Item_Dummy_Mosquito
+-1987586694 - Hell's Clarion Spores - Item_Building_Plants_HellsClarion_Seed
+-1579575933 - Iron Axes - Item_Weapon_Axe_T05_Iron
+172410251 - Feed Prisoner - FakeItem_FeedPrisoner_SageFish
+421203343 - Castle Upkeep - Item_Ingredient_CastleUpkeep_Fake
+-1542642288 - The Ember Chain - Item_Ingredient_Book_MagicSource_T04_EmberChain
+-204051056 - Unsullied Heart - Item_Consumable_Heart_T03_Unsullied
+960030104 - Bone Castle Key - Item_Ingredient_CastleKey_T01
+447901086 - Fierce Stinger - Item_Ingredient_Fish_FierceStinger
+-1370210913 - Thistle Seed - Item_Building_Plants_Thistle_Seed
+-1918261855 - Iron Crown - Item_Ingredient_Crown_Iron
+357608868 - Regular Emerald - Item_Ingredient_Gem_Emerald_T02
+70292903 - Merciless Copper Mace - Item_Tech_Weapon_Copper_Mace_T04
+835610037 - Assortment of Great Braziers - Item_Ingredient_Book_Structure_Braziers03
+1510182325 - Witch Potion - Item_Consumable_GlassBottle_SpellBrew_T02
+-1461326411 - Siege Golem Stone - Item_Building_Siege_Golem_T02
+239338934 - Ashfolk Crystal Ice Cloak - Item_Cloak_T02_WildlingBlue
+-777417289 - Merciless Hollowfang Gloves - Item_Ingredient_Book_Armor_Gloves_T06
+-1723445833 - Rag Tunic - Item_Chest_T00_StartingRags
+-1321865795 - Banners - Item_Ingredient_Book_Structure_PillarBanners_T02
+-1658630722 - Ruby Pendant - Item_Ingredient_Book_MagicSource_T06_RubyPendant
+-1871776321 - Drain Blood - FakeItem_Prisoner_ExtractedBloodPotion
+1252507075 - Whetstone - Item_Ingredient_Whetstone
+-608131642 - Grave Dust - Item_Ingredient_Gravedust
+690259405 - Top Hat - Item_Headgear_TopHat
+-1748732464 - Heart of Nicholaus - Item_Heart_VBlood_Undead_Priest
+-425306671 - Ruby Pendant - Item_MagicSource_General_T06_RubyPendant
+937375187 - Merciless Iron Crossbow - Item_Ingredient_Book_Weapon_Crossbow_T06
+-1675225643 - Merciless Nightstalker Boots - Item_Boots_T04_Copper
+1284160983 - Immortal King's Drape - Item_Cloak_T01_Dracula
+-1257026088 - Clay Mold - Item_Ingredient_ClayMold
+-949672483 - Silver Coin - Item_Ingredient_SilverCoin
+1307774440 - Shadow Spear - Item_Weapon_Spear_T09_ShadowMatter
+-262660630 - Emerald Necklace - Item_Tech_MagicSource_T06_EmeraldNecklace
+1898237421 - Flawless Emerald - Item_Ingredient_Gem_Emerald_T03
+-1905547794 - Bone Sword - Item_Armor_Headgear_Base
+626118128 - Jewel Chamber Flooring - Item_Ingredient_Book_Floor_Jewelcrafting
+988417522 - Iron Body - Item_Ingredient_IronBody
+-682942983 - Merciless Hollowfang Gloves - Item_Tech_Armor_Copper_Gloves_T06
+1669178875 - Iron Helm - Item_Head_T06_Iron
+1675503103 - Empty Crystal Flask - Item_Consumable_EmptyBootle_CrystalFlask
+-2137364987 - Rag Shoes - Item_Boots_T00_StartingRags
+-2118441460 - Regular Topaz - Item_Ingredient_Gem_Topaz_T02
+-749171183 - Shard of the Frozen Crypt - Item_Ingredient_Book_MagicSource_T08_FrozenShard
+930747930 - Silkworm - Item_Dummy_Silkworm
+2106123809 - Ghost Yarn - Item_Ingredient_GhostYarn
+-950839771 - Iron Castle Key - Item_Ingredient_CastleKey_T03
+488592933 - Bloodmoon Chestguard - Item_Chest_T08_Shadowmoon
+-849449432 - Merciless Nightstalker Vest - Item_Ingredient_Book_Armor_Chest_T04
+-895015382 - Blood Rose Brew - Item_Ingredient_Book_Consumable_BloodRoseBrew_T01
+-1042299347 - Merciless Copper Slashers - Item_Weapon_Slashers_T04_Copper_Reinforced
+1364444719 - Merciless Nightstalker Leggings - Item_Ingredient_Book_Armor_Legs_T04
+428518969 - Tailoring Bench (Construction) - Item_Tech_Workstation_TailoringBench
+1341367867 - Assortment of Fine Candle Stands - Item_Ingredient_Book_Structure_CandleStands_T02
+689272399 - Stone Body - Item_Ingredient_StoneBody
+889298519 - Regular Gem Veins - Item_Ingredient_MapZone_GemVein_T02
+188653143 - Perfect Ruby - Item_Ingredient_Gem_Ruby_T04
+-1513937321 - Banshee - Item_Dummy_Banshee
+106516056 - Snow Flower - Item_Ingredient_Plant_SnowFlower
+1853029976 - Iron Spear - Item_Weapon_Spear_T05_Iron
+1363541594 - TailorÔÇÖs Framework - Item_Tech_Framework_Tailor
+-2051574178 - Flawless Topaz - Item_Ingredient_Gem_Topaz_T03
+1261174372 - Dark Leather Cape - Item_Cloak_T01_Jade
+-1003381140 - Merciless Copper Mace - Item_Ingredient_Book_Weapon_Mace_T04
+-237441421 - Crude Emerald - Item_Ingredient_Gem_Emerald_T01
+991170165 - Merciless Nightstalker Gloves - Item_Tech_Armor_Copper_Gloves_T04
+-167936394 - Grinding Stone - Item_Ingredient_Kit_Blacksmith_T02
+-2020831626 - Werewolf Head - Item_Headgear_WerewolfTrophy
+-1568756102 - Potion of Rage - Item_Consumable_GlassBottle_PhysicalBrew_T02
+1593151100 - Bone Sword - Item_Hair03_Male
+-1768698241 - Cardinal's Cloak - Item_Cloak_T02_Cardinal
+-89186687 - Vermin Nest (Construction) - Item_Tech_Workstation_VerminNest
+-1854583165 - Ruby Pendant - Item_Tech_MagicSource_T05_RubyPendant
+-227965303 - Phantom's Veil - Item_Cloak_Main_T03_Phantom
+1588258447 - Bone Mace - Item_Weapon_Mace_T01_Bone
+198786704 - Assortment of Simple Candle Stands - Item_Ingredient_Book_Structure_CandleStands_T01
+1553540755 - The Frozen Eye - Item_Tech_MagicSource_T04_FrozenEye
+1753652885 - Merciless Iron Sword - Item_Tech_Weapon_Iron_Sword_T06
+724428437 - Copper Castle Key - Item_Ingredient_CastleKey_T02
+-149778795 - Rainbow Trout - Item_Ingredient_Fish_RainbowTrout
+1402953369 - Reinforced Bone Reaper - Item_Weapon_Reaper_T02_Bone_Reinforced
+1904137882 - Charm Beast (Ability) - Item_Ability_Tech_Charm_Beast
+-76255587 - Topaz Amulet - Item_Tech_MagicSource_T06_IronShell
+820932258 - Gem dust - Item_Ingredient_Gemdust
+1726420644 - Blood Rose - Item_Ingredient_Plant_BloodRose
+12127911 - Hollowfang Leggings - Item_Legs_T05_Cotton
+-293419350 - Duskwatcher's Ring - Item_Ingredient_Book_MagicSource_T04_Duskwatcher
+-700774739 - Cloth - Item_Ingredient_Cloth
+-1417439571 - Crown of Darkness - Item_Ingredient_Crown_Darkness
+531984050 - Blood Rose Seed - Item_Building_Plants_BloodRose_Seed
+-1566269773 - Trippy Shroom - Item_Consumable_TrippyShroom
+974739126 - Vampire Hunter Headgear - Item_Headgear_VampireHunterHat
+730584759 - Merciless Copper Axes - Item_Tech_Weapon_Copper_Axe_T04
+-1623015750 - Assortment of braziers and candles - Item_Tech_Decoration_Braziers_01
+379281083 - Royal Veil of the Jester - Item_Cloak_T03_Jester
+2010054332 - Research Desk (Construction) - Item_Tech_Workstation_ResearchDesk
+-766642494 - Razer Serpent Wrap - Item_Cloak_T01_Razer
+1110550218 - Feed Prisoner - FakeItem_FeedPrisoner_Rat
+890484447 - Holy Resistance Potion - Item_Consumable_GlassBottle_HolyResistance_T02
+-999518496 - Assortment of Storage Lockers - Item_Ingredient_Book_Structure_Storage_T02
+2053574378 - Sofa & Divan Collection - Item_Ingredient_Book_Structure_Sofas_T03
+-1525051664 - Furnace (Construction) - Item_Tech_Workstation_Furnace
+-1219959051 - Merciless Copper Sword - Item_Weapon_Sword_T04_Copper_Reinforced
+-652069131 - Blood Rose Ring - Item_MagicSource_General_T02_BloodRoseRing
+-20041991 - Bone Crossbow - Item_Weapon_Crossbow_T01_Bone
+-606793991 - Garlic Fever Antidote - Item_Consumable_Canteen_Antidote_Garlic_T01
+-1818243335 - KnightÔÇÖs Helmet - Item_Headgear_KnightsHelmet
+786585343 - Hunter's Cloak - Item_Cloak_Main_T02_Hunter
+5721857 - Hero's Heart - Item_Ingredient_Heart_Boss_Hero
+-152150271 - Bonnet - Item_Headgear_Bonnet
+-1027776759 - Forge Framework - Item_Tech_Framework_Forge
+173846286 - Creature Heart - Item_Ingredient_Heart_Creature_NOTUSED
+542990103 - Assortment of Coloured Windows - Item_Tech_Decoration_Windows_Castle_01
+-581757157 - 'Cordial' Wall Panels - Item_Ingredient_Book_Structure_Wallpaper_Cordial_T02
+-410083553 - Amethyst Pendant - Item_Tech_MagicSource_T05_AmethystPendant
+1209769760 - Bone Sword - Item_Tool_TomeOfSeduction_T01_Bone
+1788016417 - Stone Brick - Item_Ingredient_StoneBrick
+-2044057823 - Sanguine Axes - Item_Weapon_Axe_T08_Sanguine
+660533034 - Gold Ore - Item_Ingredient_GoldOre
+166602541 - Blood Maggot - Item_Dummy_Bloodmaggot
+641842993 - Gothic Statues - Item_Tech_Decoration_Statues_Gothic
+-567468235 - Sanguine Mace - Item_Ingredient_Book_Weapon_Mace_T08
+1275572025 - Thousand-Stich Cloak - Item_Cloak_T02_PatchedCloak
+-951910598 - Stonecutting Table (Construction) - Item_Tech_Workstation_StonecuttingTable
+-1755568324 - Crimson Ward - Item_Cloak_T03_CrimsonWard
+1388572480 - Merciless Hollowfang Vest - Item_Chest_T06_Iron
+-1130238142 - Dark Silver Axes - Item_Weapon_Axe_T07_DarkSilver
+-1391446205 - Reinforced Bone Axes - Item_Weapon_Axe_T02_Bone_Reinforced
+-350484668 - Werewolf Leather - Item_Ingredient_WerewolfLeather
+-106283194 - Perfect Amethyst - Item_Ingredient_Gem_Amethyst_T04
+-512696506 - Blood Stone - Item_MagicSource_BloodStone_T01
+-1021407417 - Major Explosive Box - Item_Building_Explosives_T02
+1423040334 - Workshop (Construction) - Item_Tech_Workstation_Lumbermill
+-1260890289 - Bloodmoon Leggings - Item_Ingredient_Book_Armor_Legs_T08
+391395152 - Bone Sword - Item_Hair02_Male
+-1205373095 - Water Well - Item_Ingredient_Book_Structure_Well
+-1957642407 - Decorative Stone Walls - Item_Ingredient_Book_Structure_Wallpaper_Bricks_T01
+1499160417 - Copper Slashers - Item_Weapon_Slashers_T03_Copper
+2067724131 - Bone Sword - Item_Hair01_Male
+-793913499 - Sculptured Wood - Item_Ingredient_SculpturedWood
+750542699 - Perfect Miststone - Item_Ingredient_Gem_Miststone_T04
+1488205677 - Exceptional Magic Component - Item_Ingredient_Kit_Magic_T04
+707710831 - War-Torn Wine Cloak - Item_Cloak_T02_TornRags
+-548847761 - Mitre - Item_Headgear_PopeMitre
+880699252 - Sulphur - Item_Ingredient_Sulfur
+-1766408331 - Fishing Pole - Item_Weapon_FishingPole_Debug
+2076358520 - Sulphur Siege Golem - Item_Building_Siege_Golem_T01
+1942009728 - Merciless Iron Slashers - Item_Ingredient_Book_Weapon_Slashers_T06
+790210443 - Merciless Copper Spear - Item_Weapon_Spear_T04_Copper_Reinforced
+1014370193 - Merciless Nightstalker Gloves - Item_Ingredient_Book_Armor_Gloves_T04
+-1714012261 - Iron Mace - Item_Weapon_Mace_T05_Iron
+-296161379 - Nightstone of the Beast - Item_MagicSource_General_T08_Nightstone
+1227483037 - Pinecone - Item_Building_Plants_Spruce_Cone
+-1222725729 - Animal Hide - Item_Ingredient_AnimalHide
+1428883363 - Assortment of 'Augur' Vases - Item_Ingredient_Book_Structure_Vases01
+-1547669596 - Research Desk - Item_Tech_ResearchStation_T01
+-930097242 - Bone Sword - Item_Boots_T03_HunterRaiment
+1328680870 - Bone Sword - Item_Armor_Chest_Base
+-844363862 - Merciless Hunter's Crossbow - Item_Tech_Weapon_Copper_Crossbow_T04
+-343953486 - Merciless Hollowfang Boots - Item_Tech_Armor_Copper_Boots_T06
+-697038921 - Bandit Boots - Item_Boots_T02_BanditGear
+2038011836 - Bone Spear - Item_Weapon_Spear_T01_Bone
+2133651392 - Twilight Boots - Item_Boots_T07_Silk_Twilight
+-1718233147 - Merciless Hollowfang Leggings - Item_Ingredient_Book_Armor_Legs_T06
+1474643910 - Highland Lotus - Item_Ingredient_Plant_Lotus
+-1171060793 - Exterior Light & Imperious Fountain - Item_Ingredient_Book_Structure_Exterior_T03
+2094602185 - Cobblestone Paths - Item_Ingredient_Book_Structure_Path_Cobblestone
+660670410 - Merciless Copper Axes - Item_Ingredient_Book_Weapon_Axe_T04
+1787025354 - Demon Spawn - Item_Dummy_Demon
+-352704566 - Dark Silver Spear - Item_Weapon_Spear_T07_DarkSilver
+199425997 - Amethyst Pendant - Item_MagicSource_General_T06_AmethystPendant
+1814558673 - Feed Prisoner - FakeItem_FeedPrisoner_RainbowTrout
+411697107 - Werewolf Pelt - Item_Ingredient_WerewolfPelt
+-2081646636 - Beatrice's Scarf - Item_Cloak_T02_Tailor
+-1169471531 - Wolf Head - Item_Headgear_WolfTrophy01
+1244180446 - Reinforced Bone Spear - Item_Weapon_Spear_T02_Bone_Reinforced
+1485993952 - Bloodmoon Gloves - Item_Ingredient_Book_Armor_Gloves_T08
+1526542305 - Merciless Iron Mace - Item_Ingredient_Book_Weapon_Mace_T06
+791584738 - Garlic Resistance Potion - Item_Ingredient_Book_Consumable_GarlicResistance_T02
+-1750550553 - Iron Ingot - Item_Ingredient_IronBar
+1553481703 - Painting Frame - Item_Ingredient_PaintingFrame
+1889982442 - Hanging Lantern - Item_Ingredient_Book_Structure_HangingLantern_T03
+-589858836 - Toki Feathered Cape - Item_Cloak_T02_Poloma
+-435501075 - Merciless Iron Sword - Item_Weapon_Sword_T06_Iron_Reinforced
+-1147920398 - Flawless Sapphire - Item_Ingredient_Gem_Sapphire_T03
+-449615886 - Stone Ornaments - Item_Ingredient_Book_Structure_StoneOrnaments
+927039475 - Putrid Rat - Item_Dummy_PutridRat
+926722036 - Reinforced Bone Slashers - Item_Weapon_Slashers_T02_Bone_Reinforced
+136740861 - Razer Serpent Mantle - Item_Cloak_T03_Razer

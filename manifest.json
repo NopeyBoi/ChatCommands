@@ -1,0 +1,10 @@
+{
+    "name": "ChatCommands",
+    "version_number": "1.2.0",
+    "website_url": "https://github.com/NopeyBoi/ChatCommands",
+    "description": "Implements a few chat commands.",
+    "dependencies": [
+		"BepInEx-BepInExPack_V_Rising-1.0.0",
+        "molenzwiebel-Wetstone-1.1.0"
+    ]
+}
