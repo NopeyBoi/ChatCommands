@@ -64,7 +64,7 @@ namespace ChatCommands.Utils
             return type;
         }
 
-        public static void SpawnAtWaypoint(Context ctx, string name, float2 position)
+        public static void SpawnAtPosition(Context ctx, string name, float2 position)
         {
             try
             {
@@ -79,29 +79,22 @@ namespace ChatCommands.Utils
                 {
                     if (kv.Value.ToString() == name)
                     {
-                        ctx.Event.User.SendSystemMessage($"Attempting to spawn: {name}...");
                         foreach (var pkv in prefabCollectionSystem._PrefabGuidToEntityMap)
                         {
                             if (pkv.Key == kv.Key)
                             {
                                 var prefabEntity = pkv.Value;
-                                ctx.Event.User.SendSystemMessage($"Found: {name} as {pkv.Value} - {pkv.Key}...");
                                 Entity spawnedEntity = buffer.Instantiate(prefabEntity);
-
                                 var translation = VWorld.Server.EntityManager.GetComponentData<Translation>(ctx.Event.SenderUserEntity);
-
                                 var f3pos = new float3(position.x, translation.Value.y, position.y);
-
-                                ctx.Event.User.SendSystemMessage($"Spawning unit: {name} <{f3pos.x},{f3pos.y}, {f3pos.z}> (command from <{translation.Value.x},{translation.Value.y},{translation.Value.z}>)");
+                                ctx.Event.User.SendSystemMessage($"Spawning unit: {name} <{f3pos.x}, {f3pos.z}>");
                                 buffer.SetComponent(spawnedEntity, new Translation() { Value = f3pos });
-                                ctx.Event.User.SendSystemMessage($"Spawning Complete: {name}");
-
                                 return;
                             }
                         }
                     }
                 }
-                ctx.Event.User.SendSystemMessage("Could not find specified unit: " + name);
+                CommandOutput.CustomErrorMessage(ctx, $"Could not find specified unit: {name}");
                 return;
             }
             catch (Exception e)

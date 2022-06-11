@@ -2,8 +2,10 @@
 using BepInEx.Logging;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Text.Json;
 using Unity.Entities;
 using Wetstone.API;
 using Wetstone.Hooks;
@@ -14,11 +16,13 @@ namespace ChatCommands.Utils
     {
         public string Prefix { get; set; }
         public string DisabledCommands { get; set; }
+        public Dictionary<string, bool> Permissions { get; set; }
 
         public CommandHandler(string prefix, string disabledCommands)
         {
             this.Prefix = prefix;
             this.DisabledCommands = disabledCommands;
+            LoadPermissions();
         }
 
         public void HandleCommands(VChatEvent ev, ManualLogSource Log, ConfigFile config)
@@ -38,29 +42,60 @@ namespace ChatCommands.Utils
                 string command = ev.Message.Split(' ')[0].Remove(0, 1);
                 if (DisabledCommands.Split(',').Any(x => x.ToLower() == command.ToLower())) continue;
                 if (!NameExists(type, command)) continue;
-                if (IsNotAdmin(type, ev))
+                Permissions.TryGetValue(command, out bool isAdminOnly);
+                if (IsNotAdmin(type, ev, isAdminOnly))
                 {
                     ev.User.SendSystemMessage($"You do not have the required permissions to use that.");
                     return;
                 }
-
                 var cmd = type.GetMethod("Initialize");
                 cmd.Invoke(null, new[] { new Context(Prefix, ev, Log, config, args, DisabledCommands) });
 
                 Log.LogInfo($"[CommandHandler] {ev.User.CharacterName} used command: {command.ToLower()}");
+                return;
             }
+            SavePermissions();
+            CommandOutput.InvalidCommand(ev);
         }
 
-        private static bool NameExists(Type type, string command)
+        private bool NameExists(Type type, string command)
         {
             List<string> aliases = type.GetAttributeValue((CommandAttribute cmd) => cmd.Aliases);
-            if (aliases.Any(x => x.ToLower() == command.ToLower())) return true;
+            if (aliases.Any(x => x.ToLower() == command.ToLower()))
+            {
+                if (!Permissions.ContainsKey(aliases[0])) Permissions.Add(aliases[0], false);
+                return true;
+            }
             return false;
         }
 
-        private static bool IsNotAdmin(Type type, VChatEvent ev)
+        private bool IsNotAdmin(Type type, VChatEvent ev, bool isAdminOnly)
         {
-            return type.GetAttributeValue((CommandAttribute cmd) => cmd.AdminOnly) && !ev.User.IsAdmin;
+            return isAdminOnly && !ev.User.IsAdmin;
+        }
+
+        private void LoadPermissions()
+        {
+            if (!File.Exists("BepInEx/config/ChatCommands/permissions.json")) File.Create("BepInEx/config/ChatCommands/permissions.json");
+            string json = File.ReadAllText("BepInEx/config/ChatCommands/permissions.json");
+            try
+            {
+                Permissions = JsonSerializer.Deserialize<Dictionary<string, bool>>(json);
+            }
+            catch
+            {
+                Permissions = new Dictionary<string, bool>();
+            }
+        }
+
+        public void SavePermissions()
+        {
+            var options = new JsonSerializerOptions()
+            {
+                WriteIndented = true,
+                IncludeFields = true
+            };
+            File.WriteAllText("BepInEx/config/ChatCommands/permissions.json", JsonSerializer.Serialize(Permissions, options));
         }
     }
 

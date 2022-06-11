@@ -6,7 +6,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("give, g", Usage = "give <itemname> [<amount>]", Description = "Adds specified items to your inventory", AdminOnly = true)]
+    [Command("give, g", Usage = "give <itemname> [<amount>]", Description = "Adds specified items to your inventory")]
     public static class Give
     {
         public static void Initialize(Context ctx)

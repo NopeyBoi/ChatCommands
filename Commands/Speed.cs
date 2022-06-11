@@ -4,7 +4,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("speed", Usage = "speed <value|reset>", Description = "Sets your movement speed", AdminOnly = true)]
+    [Command("speed", Usage = "speed <value|reset>", Description = "Sets your movement speed")]
     public static class Speed
     {
         public static void Initialize(Context ctx)

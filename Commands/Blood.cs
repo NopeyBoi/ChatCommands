@@ -4,7 +4,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("blood", Usage = "blood <Type> [<Quality>] [<Value>]", Description = "Sets your current Blood Type, Quality and Value", AdminOnly = true)]
+    [Command("blood", Usage = "blood <Type> [<Quality>] [<Value>]", Description = "Sets your current Blood Type, Quality and Value")]
     public static class Blood
     {
         public static void Initialize(Context ctx)

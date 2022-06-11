@@ -44,7 +44,7 @@ namespace ChatCommands.Commands
 
         public static void LoadKits()
         {
-            if (!File.Exists("BepInEx/config/ChatCommands/kits.json")) File.Create("BepInEx/config/ChatCommands/waypkitsoints.json");
+            if (!File.Exists("BepInEx/config/ChatCommands/kits.json")) File.Create("BepInEx/config/ChatCommands/kits.json");
             string json = File.ReadAllText("BepInEx/config/ChatCommands/kits.json");
             try
             {

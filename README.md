@@ -2,9 +2,34 @@
 ### Server Only Mod
 This Mod will probably crash your Client if you try to install it.\
 I am by far not the best programmer so the code might be a little spaghetti here and there. I'm trying my best to get everything as polished as I currently can though. :)
+
+I set up a Patreon for anyone who wants to support me.\
+Any amount is greatly appreciated!\
+[My Patreon Page](https://www.patreon.com/NopeyBoi)
+
 ### Config
 - `Prefix` [default `?`]: The prefix use for chat commands.
 - `DisabledCommands` [default `Empty`]: Enter command names to disable them. Seperated by commas. Ex.: health,speed
+
+## Permissions
+You can only decide whether a command is admin only or not at this time.\
+The permissions are saved in `BepInEx/config/ChatCommands/permissions.json` and look like this:
+```json
+{
+  "blood": true,
+  "bloodpotion": true,
+  "give": true,
+  "health": true,
+  "help": false,
+  "kit": false,
+  "spawnnpc": true,
+  "speed": true,
+  "sunimmunity": true,
+  "waypoint": false
+}
+```
+Removing a command from the list will automatically set it's value to `false`.
+
 ## Chat Commands
 `help [<Command>]`: Shows a list of all commands.\
 `kit <Name>`: Gives you a previously specified set of items.
@@ -50,7 +75,7 @@ I am by far not the best programmer so the code might be a little spaghetti here
 `give <Item Name> [<Amount>]`: Adds the specified Item to your Inventory.\
 &ensp;&ensp;**Example:** `give Stone Brick 17`
 
-`spawnatwp <Prefab Name> <Waypoint>`: Spawns a NPC to a previously created waypoint.\
+`spawnnpc <Prefab Name> [<Waypoint>]`: Spawns a NPC. Optional: To a previously created waypoint.\
 &ensp;&ensp;**Example:** `spawnatwp CHAR_Cursed_MountainBeast_VBlood arena`
 
 `health <Amount>`: Sets your health to the specified amount.\
@@ -62,9 +87,13 @@ I am by far not the best programmer so the code might be a little spaghetti here
 <summary>Changelog</summary>
 
 `1.3.0`
-- Added new command: spawnatwp
+- Added new command: spawnnpc
+- Added rather whacky "permissions"
 - Added a Waypoint Limit per User
+- Added waypoint list option
 - Added a reset function to speed
+- Fixed health command
+- Having no set parameters on ?health restores max health
 
 `1.2.0`
 - Added new command: waypoint

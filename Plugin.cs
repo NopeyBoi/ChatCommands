@@ -2,8 +2,12 @@
 using BepInEx.Configuration;
 using BepInEx.IL2CPP;
 using ChatCommands.Utils;
+using HarmonyLib;
 using Newtonsoft.Json;
+using ProjectM;
+using System;
 using System.IO;
+using System.Reflection;
 using Wetstone.API;
 using Wetstone.Hooks;
 
@@ -14,6 +18,8 @@ namespace ChatCommands
     [Reloadable]
     public class Plugin : BasePlugin
     {
+        private Harmony harmony;
+
         private CommandHandler cmd;
         private ConfigEntry<string> Prefix;
         private ConfigEntry<string> DisabledCommands;
@@ -30,6 +36,12 @@ namespace ChatCommands
                 if (!Directory.Exists("BepInEx/config/ChatCommands")) Directory.CreateDirectory("BepInEx/config/ChatCommands");
                 File.Create("BepInEx/config/ChatCommands/kits.json");
             }
+
+            if (!File.Exists("BepInEx/config/ChatCommands/permissions.json"))
+            {
+                if (!Directory.Exists("BepInEx/config/ChatCommands")) Directory.CreateDirectory("BepInEx/config/ChatCommands");
+                File.Create("BepInEx/config/ChatCommands/permissions.json");
+            }
         }
 
         public override void Load()
@@ -37,6 +49,7 @@ namespace ChatCommands
             InitConfig();
             cmd = new CommandHandler(Prefix.Value, DisabledCommands.Value);
             Chat.OnChatMessage += HandleChatMessage;
+            harmony = Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
 
             Log.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
         }

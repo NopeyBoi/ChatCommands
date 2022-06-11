@@ -1,6 +1,6 @@
 {
     "name": "ChatCommands",
-    "version_number": "1.2.0",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/NopeyBoi/ChatCommands",
     "description": "Implements a few chat commands.",
     "dependencies": [

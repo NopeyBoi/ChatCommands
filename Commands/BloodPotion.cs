@@ -5,7 +5,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("bloodpotion, bp", Usage = "bloodpotion <Type> [<Quality>]", Description = "Creates a Potion with specified Blood Type, Quality and Value", AdminOnly = true)]
+    [Command("bloodpotion, bp", Usage = "bloodpotion <Type> [<Quality>]", Description = "Creates a Potion with specified Blood Type, Quality and Value")]
     public static class BloodPotion
     {
         public static void Initialize(Context ctx)

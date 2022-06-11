@@ -4,7 +4,7 @@ using Wetstone.API;
 
 namespace ChatCommands.Commands
 {
-    [Command("sunimmunity, sun", Usage = "sunimmunity", Description = "Makes you immune to the sun", AdminOnly = true)]
+    [Command("sunimmunity, sun", Usage = "sunimmunity", Description = "Makes you immune to the sun")]
     public static class SunImmunity
     {
         public static void Initialize(Context ctx)
